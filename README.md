@@ -7,7 +7,7 @@
 ### STEP 3: `pip install -r requirements.txt`
 ### STEP 4: `./imcc.py`
 
-### SOURCE
+### SOURCE (NOTE) UPDATE W/ ACTUAL DEVICE `/dev/cu.usbserial-0001` 
 ```python
 #!/usr/bin/env python3
 
