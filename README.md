@@ -1,6 +1,13 @@
-# Interactive Meshtastic Chat Client 0.1
+[![image](https://github.com/mytechnotalent/imcc/blob/main/imcc.png?raw=true)
 
-<br>
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br><br>
+
+# Interactive Meshtastic Chat Client 0.1
+Interactive Meshtastic Chat Client which chats on the Primary Channel over serial.
+
+<br><br>
 
 ### STEP 1: `python3 -m venv venv`
 ### STEP 2: `source venv/bin/activate`
