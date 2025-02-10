@@ -52,7 +52,9 @@ iface = meshtastic.serial_interface.SerialInterface(devPath="/dev/cu.usbserial-0
 
 print("Interactive Meshtastic Chat Client 0.1")
 print("--------------------------------------")
-print("Type your message and press Enter to send. Press Ctrl+C to exit.\n")
+print("Type your message and press Enter to send.") 
+print("Press Ctrl+C to exit...")
+print("")
 
 # main loop: send messages from user input
 try:
