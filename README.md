@@ -65,7 +65,7 @@ print("Interactive Meshtastic Chat Client 0.1")
 print("--------------------------------------")
 print("Type your message and press Enter to send.") 
 print("Press Ctrl+C to exit...")
-print(""
+print("")
 
 # main loop: send messages from user input
 try:
