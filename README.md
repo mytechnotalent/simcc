@@ -1,11 +1,13 @@
-# Interactive Meshtastic Chat Client
+# Interactive Meshtastic Chat Client 0.1
 
-## STEP 1: `python3 -m venv venv`
-## STEP 2: `source venv/bin/activate`
-## STEP 3: `pip install -r requirements.txt`
-## STEP 4: `./imcc.py`
+<br>
 
-## SOURCE
+### STEP 1: `python3 -m venv venv`
+### STEP 2: `source venv/bin/activate`
+### STEP 3: `pip install -r requirements.txt`
+### STEP 4: `./imcc.py`
+
+### SOURCE
 ```python
 #!/usr/bin/env python3
 
