@@ -4,7 +4,7 @@
 
 <br><br>
 
-# Interactive Meshtastic Chat Client
+# Serial Interactive Meshtastic Chat Client
 Interactive Meshtastic Chat Client which chats on the Primary Channel over serial.
 
 <br><br>
