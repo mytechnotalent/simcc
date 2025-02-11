@@ -19,7 +19,7 @@ Interactive Meshtastic Chat Client which chats on the Primary Channel over seria
 #!/usr/bin/env python3
 
 """
-Interactive Meshtastic Chat Client
+Interactive Meshtastic Chat Client 0.1.0
 
 This script sends and receives text messages over the serial interface.
 It uses PyPubSub to subscribe to text messages.
