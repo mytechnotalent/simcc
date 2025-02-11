@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Interactive Meshtastic Chat Client 0.1
+Interactive Meshtastic Chat Client 0.1.0
 
 This script sends and receives text messages over the serial interface.
 It uses PyPubSub to subscribe to text messages.
@@ -50,8 +50,8 @@ pub.subscribe(onReceive, "meshtastic.receive.text")
 # ***UPDATE WITH YOUR OWN DEV PATH***
 iface = meshtastic.serial_interface.SerialInterface(devPath="/dev/cu.usbserial-0001")
 
-print("Interactive Meshtastic Chat Client 0.1")
-print("--------------------------------------")
+print("Interactive Meshtastic Chat Client")
+print("----------------------------------")
 print("Type your message and press Enter to send.") 
 print("Press Ctrl+C to exit...")
 print("")
