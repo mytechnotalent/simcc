@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/imcc/blob/main/simcc.png?raw=true)
+![image](https://github.com/mytechnotalent/simcc/blob/main/simcc.png?raw=true)
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
