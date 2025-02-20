@@ -84,7 +84,7 @@ async def main():
     Main asynchronous entry point for the serial chat client.
 
     Steps:
-      1. Reads the serial port (e.g., "/dev/cu.usbserial-0001") from the command line.
+      1. Reads the serial port (e.g., /dev/cu.usbserial-0001) from the command line.
       2. Creates a SerialInterface for that port (auto-connect).
       3. Waits briefly to stabilize the connection.
       4. Subscribes to incoming text messages (via onReceive).
@@ -93,7 +93,7 @@ async def main():
       6. Closes the interface upon Ctrl+C (KeyboardInterrupt).
 
     Usage:
-        python simcc.py "<SERIAL_PORT>"
+        python simcc.py <SERIAL_PORT>
 
     Raises:
         Exception: If the serial connection fails to initialize.
