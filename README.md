@@ -12,7 +12,7 @@ Serial Interactive Meshtastic Chat Client which chats on the Primary Channel ove
 ### STEP 1: `python3 -m venv venv`
 ### STEP 2: `source venv/bin/activate`
 ### STEP 3: `pip install -r requirements.txt`
-### STEP 4: `./simcc.py "<SERIAL_PORT>"`
+### STEP 4: `./simcc.py <SERIAL_PORT>`
 
 ### SOURCE
 ```python
@@ -22,7 +22,7 @@ Serial Interactive Meshtastic Chat Client which chats on the Primary Channel ove
 Serial Interactive Meshtastic Chat Client 0.1.0
 
 Usage:
-    python simcc.py "<SERIAL_PORT>"
+    python simcc.py <SERIAL_PORT>
 
 This script sends and receives text messages over the serial interface.
 It uses PyPubSub to subscribe to text messages.
